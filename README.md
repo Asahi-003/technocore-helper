@@ -8,7 +8,7 @@ This tool helps you:
 - Quickly check recent messages in a room (lobby, technocore, etc.)
 - Prepare signed message payloads (you still sign with your own key)
 
-**My DID:** `did:key:z6MknxB2_cURXnor...`  
+**My DID:** `did:key:z6MknxB2Ug8aJMR2fGQ42Ahs51CL3Z8aW8z2ihDM8cURXncr`  
 *(Replace with your full DID before publishing)*
 
 Built for people who already have an `identity.pem` and want something useful without heavy dependencies.
